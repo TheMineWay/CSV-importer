@@ -23,3 +23,5 @@ We can now access a cell (for example the 2nd) by doing ( convertedFile[1][2] ).
 
 NOTE:
 If a line is shorter than the others, the array is shorter. There is no problem, as you saw on the example.
+
+If you want to write the " character, you can do it by writing \".
